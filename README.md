@@ -28,7 +28,7 @@ Requires Python 3.9+. Tkinter ships with Python on Windows and macOS; on Debian/
 install it with `sudo apt install python3-tk`.
 
 ```bash
-git clone https://github.com/<your-username>/shapes-calculator.git
+git clone https://github.com/VishalLa/shapes-calculator.git
 cd shapes-calculator
 python -m shapes_calculator
 ```
